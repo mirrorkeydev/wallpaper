@@ -32,7 +32,7 @@
       },
       {
          "author":"Unknown",
-         "url": "https://raw.githubusercontent.com/mirrorkeydev/wallpaper/master/Marble.jpg"
+         "url": "https://raw.githubusercontent.com/mirrorkeydev/wallpaper/master/Marble.jpg",
          "name":"Marble",
          "thumbnail":"https://raw.githubusercontent.com/mirrorkeydev/wallpaper/master/Marble.jpg"
       }
@@ -56,7 +56,7 @@
       }
 	  {
          "author":"Unknown",
-         "url": "https://raw.githubusercontent.com/mirrorkeydev/wallpaper/master/Poly.jpg"
+         "url": "https://raw.githubusercontent.com/mirrorkeydev/wallpaper/master/Poly.jpg",
          "name":"Low Poly",
          "thumbnail":"https://raw.githubusercontent.com/mirrorkeydev/wallpaper/master/Poly.jpg"
       }
@@ -74,9 +74,9 @@
       }
 	  {
          "author":"Unknown",
-         "url": "https://raw.githubusercontent.com/mirrorkeydev/wallpaper/master/Shrubbery.jpg",
+         "url": "https://raw.githubusercontent.com/mirrorkeydev/wallpaper/master/Shrubbery.png",
          "name":"Shrubbery",
-         "thumbnail":"https://raw.githubusercontent.com/mirrorkeydev/wallpaper/master/Shrubbery.jpg"
+         "thumbnail":"https://raw.githubusercontent.com/mirrorkeydev/wallpaper/master/Shrubbery.png"
       }
 	  {
          "author":"Unknown",
