@@ -2,6 +2,12 @@
    "wallpapers": [
       {
          "author": "Unknown",
+         "url": "https://raw.githubusercontent.com/mirrorkeydev/wallpaper/master/mountains.jpg",
+         "name": "Mountains",
+         "thumbnail": "https://raw.githubusercontent.com/mirrorkeydev/wallpaper/master/mountains.jpg"
+      },
+      {
+         "author": "Unknown",
          "url": "https://raw.githubusercontent.com/mirrorkeydev/wallpaper/master/Cliff.jpg",
          "name": "Cliff",
          "thumbnail": "https://raw.githubusercontent.com/mirrorkeydev/wallpaper/master/Cliff.jpg"
