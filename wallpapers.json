@@ -3,86 +3,86 @@
       {
          "author": "Unknown",
          "url": "https://raw.githubusercontent.com/mirrorkeydev/wallpaper/master/mountains.jpg",
-         "name": "Mountains",
-         "thumbUrl": "https://raw.githubusercontent.com/mirrorkeydev/wallpaper/master/mountains.jpg"
+         "thumbUrl": "https://raw.githubusercontent.com/mirrorkeydev/wallpaper/master/mountains.jpg",
+ 	 "name": "Mountains"
       },
       {
          "author": "Unknown",
          "url": "https://raw.githubusercontent.com/mirrorkeydev/wallpaper/master/Cliff.jpg",
-         "name": "Cliff",
-         "thumbUrl": "https://raw.githubusercontent.com/mirrorkeydev/wallpaper/master/Cliff.jpg"
+         "thumbUrl": "https://raw.githubusercontent.com/mirrorkeydev/wallpaper/master/Cliff.jpg",
+	 "name": "Cliff",
       },
       {
          "author": "Unknown",
 	 "url": "https://raw.githubusercontent.com/mirrorkeydev/wallpaper/master/Clouds.jpg",
-         "name": "Clouds",
-         "thumbUrl": "https://raw.githubusercontent.com/mirrorkeydev/wallpaper/master/Clouds.jpg"
+         "thumbUrl": "https://raw.githubusercontent.com/mirrorkeydev/wallpaper/master/Clouds.jpg",
+	 "name": "Clouds",
       },
       {
          "author": "Unknown",
          "url": "https://raw.githubusercontent.com/mirrorkeydev/wallpaper/master/Badlands.jpg",
-         "name":" Badlands",
-         "thumbUrl": "https://raw.githubusercontent.com/mirrorkeydev/wallpaper/master/Badlands.jpg"
+         "thumbUrl": "https://raw.githubusercontent.com/mirrorkeydev/wallpaper/master/Badlands.jpg",
+	  "name":" Badlands",
       },
       {
          "author": "Unknown",
          "url": "https://raw.githubusercontent.com/mirrorkeydev/wallpaper/master/Corner.jpg",
+         "thumbUrl": "https://raw.githubusercontent.com/mirrorkeydev/wallpaper/master/Corner.jpg",
          "name": "Corner",
-         "thumbUrl": "https://raw.githubusercontent.com/mirrorkeydev/wallpaper/master/Corner.jpg"
       },
       {
          "author": "Unknown",
          "url": "https://raw.githubusercontent.com/mirrorkeydev/wallpaper/master/Dunes.jpg",
+         "thumbUrl": "https://raw.githubusercontent.com/mirrorkeydev/wallpaper/master/Dunes.jpg",
          "name": "Dunes",
-         "thumbUrl": "https://raw.githubusercontent.com/mirrorkeydev/wallpaper/master/Dunes.jpg"
       },
       {
          "author":"Unknown",
          "url": "https://raw.githubusercontent.com/mirrorkeydev/wallpaper/master/Marble.jpg",
+         "thumbUrl":"https://raw.githubusercontent.com/mirrorkeydev/wallpaper/master/Marble.jpg",
          "name":"Marble",
-         "thumbUrl":"https://raw.githubusercontent.com/mirrorkeydev/wallpaper/master/Marble.jpg"
       },
 	  {
          "author":"Unknown",
          "url": "https://raw.githubusercontent.com/mirrorkeydev/wallpaper/master/Mountain.jpg",
-         "name":"Mountain",
-         "thumbnail":"https://raw.githubusercontent.com/mirrorkeydev/wallpaper/master/Mountain.jpg"
+         "thumbUrl":"https://raw.githubusercontent.com/mirrorkeydev/wallpaper/master/Mountain.jpg",
+	 "name":"Mountain",
       },
 	  {
          "author":"Unknown",
          "url": "https://raw.githubusercontent.com/mirrorkeydev/wallpaper/master/Ocean.jpg",
+         "thumbUrl":"https://raw.githubusercontent.com/mirrorkeydev/wallpaper/master/Ocean.jpg",
          "name":"Ocean",
-         "thumbUrl":"https://raw.githubusercontent.com/mirrorkeydev/wallpaper/master/Ocean.jpg"
       },
 	  {
          "author":"Unknown",
          "url": "https://raw.githubusercontent.com/mirrorkeydev/wallpaper/master/Paint.jpg",
+         "thumbUrl":"https://raw.githubusercontent.com/mirrorkeydev/wallpaper/master/Paint.jpg",
          "name":"Paint",
-         "thumbUrl":"https://raw.githubusercontent.com/mirrorkeydev/wallpaper/master/Paint.jpg"
       },
 	  {
          "author":"Unknown",
          "url": "https://raw.githubusercontent.com/mirrorkeydev/wallpaper/master/Poly.jpg",
+         "thumbUrl":"https://raw.githubusercontent.com/mirrorkeydev/wallpaper/master/Poly.jpg",
          "name":"Low Poly",
-         "thumbUrl":"https://raw.githubusercontent.com/mirrorkeydev/wallpaper/master/Poly.jpg"
       },
 	  {
          "author":"Unknown",
          "url": "https://raw.githubusercontent.com/mirrorkeydev/wallpaper/master/Room.jpg",
+         "thumbUrl":"https://raw.githubusercontent.com/mirrorkeydev/wallpaper/master/Room.jpg",
          "name":"Room",
-         "thumbUrl":"https://raw.githubusercontent.com/mirrorkeydev/wallpaper/master/Room.jpg"
       },
 	  {
          "author":"Unknown",
          "url": "https://raw.githubusercontent.com/mirrorkeydev/wallpaper/master/Rows.jpg",
+         "thumbUrl":"https://raw.githubusercontent.com/mirrorkeydev/wallpaper/master/Rows.jpg",
          "name":"Rows",
-         "thumbUrl":"https://raw.githubusercontent.com/mirrorkeydev/wallpaper/master/Rows.jpg"
       },
 	  {
          "author":"Unknown",
          "url": "https://raw.githubusercontent.com/mirrorkeydev/wallpaper/master/Smoke.jpg",
-         "name":"Smoke",
          "thumbUrl":"https://raw.githubusercontent.com/mirrorkeydev/wallpaper/master/Smoke.jpg"
+         "name":"Smoke",
       }
    ]
 }
