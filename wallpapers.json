@@ -1,88 +1,96 @@
 {
-   "Wallpapers": [
-      {
-         "author": "Unknown",
-         "url": "https://raw.githubusercontent.com/mirrorkeydev/wallpaper/master/mountains.jpg",
-         "thumbUrl": "https://raw.githubusercontent.com/mirrorkeydev/wallpaper/master/mountains.jpg",
- 	 "name": "Mountains"
-      },
-      {
-         "author": "Unknown",
-         "url": "https://raw.githubusercontent.com/mirrorkeydev/wallpaper/master/Cliff.jpg",
-         "thumbUrl": "https://raw.githubusercontent.com/mirrorkeydev/wallpaper/master/Cliff.jpg",
-	 "name": "Cliff",
-      },
-      {
-         "author": "Unknown",
-	 "url": "https://raw.githubusercontent.com/mirrorkeydev/wallpaper/master/Clouds.jpg",
-         "thumbUrl": "https://raw.githubusercontent.com/mirrorkeydev/wallpaper/master/Clouds.jpg",
-	 "name": "Clouds",
-      },
-      {
-         "author": "Unknown",
-         "url": "https://raw.githubusercontent.com/mirrorkeydev/wallpaper/master/Badlands.jpg",
-         "thumbUrl": "https://raw.githubusercontent.com/mirrorkeydev/wallpaper/master/Badlands.jpg",
-	  "name":" Badlands",
-      },
-      {
-         "author": "Unknown",
-         "url": "https://raw.githubusercontent.com/mirrorkeydev/wallpaper/master/Corner.jpg",
-         "thumbUrl": "https://raw.githubusercontent.com/mirrorkeydev/wallpaper/master/Corner.jpg",
-         "name": "Corner",
-      },
-      {
-         "author": "Unknown",
-         "url": "https://raw.githubusercontent.com/mirrorkeydev/wallpaper/master/Dunes.jpg",
-         "thumbUrl": "https://raw.githubusercontent.com/mirrorkeydev/wallpaper/master/Dunes.jpg",
-         "name": "Dunes",
-      },
-      {
-         "author":"Unknown",
-         "url": "https://raw.githubusercontent.com/mirrorkeydev/wallpaper/master/Marble.jpg",
-         "thumbUrl":"https://raw.githubusercontent.com/mirrorkeydev/wallpaper/master/Marble.jpg",
-         "name":"Marble",
-      },
-	  {
-         "author":"Unknown",
-         "url": "https://raw.githubusercontent.com/mirrorkeydev/wallpaper/master/Mountain.jpg",
-         "thumbUrl":"https://raw.githubusercontent.com/mirrorkeydev/wallpaper/master/Mountain.jpg",
-	 "name":"Mountain",
-      },
-	  {
-         "author":"Unknown",
-         "url": "https://raw.githubusercontent.com/mirrorkeydev/wallpaper/master/Ocean.jpg",
-         "thumbUrl":"https://raw.githubusercontent.com/mirrorkeydev/wallpaper/master/Ocean.jpg",
-         "name":"Ocean",
-      },
-	  {
-         "author":"Unknown",
-         "url": "https://raw.githubusercontent.com/mirrorkeydev/wallpaper/master/Paint.jpg",
-         "thumbUrl":"https://raw.githubusercontent.com/mirrorkeydev/wallpaper/master/Paint.jpg",
-         "name":"Paint",
-      },
-	  {
-         "author":"Unknown",
-         "url": "https://raw.githubusercontent.com/mirrorkeydev/wallpaper/master/Poly.jpg",
-         "thumbUrl":"https://raw.githubusercontent.com/mirrorkeydev/wallpaper/master/Poly.jpg",
-         "name":"Low Poly",
-      },
-	  {
-         "author":"Unknown",
-         "url": "https://raw.githubusercontent.com/mirrorkeydev/wallpaper/master/Room.jpg",
-         "thumbUrl":"https://raw.githubusercontent.com/mirrorkeydev/wallpaper/master/Room.jpg",
-         "name":"Room",
-      },
-	  {
-         "author":"Unknown",
-         "url": "https://raw.githubusercontent.com/mirrorkeydev/wallpaper/master/Rows.jpg",
-         "thumbUrl":"https://raw.githubusercontent.com/mirrorkeydev/wallpaper/master/Rows.jpg",
-         "name":"Rows",
-      },
-	  {
-         "author":"Unknown",
-         "url": "https://raw.githubusercontent.com/mirrorkeydev/wallpaper/master/Smoke.jpg",
-         "thumbUrl":"https://raw.githubusercontent.com/mirrorkeydev/wallpaper/master/Smoke.jpg",
-         "name":"Smoke",
-      }
-   ]
+	"Wallpapers":
+        [
+			{
+				"author": "Unknown",
+				"url": "https://raw.githubusercontent.com/mirrorkeydev/wallpaper/master/mountains.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/mirrorkeydev/wallpaper/master/mountains.jpg",
+				"name": "Mountains"
+
+			},
+			{
+				"author": "Unknown",
+				"url": "http://www.gadgetraid.com/wp-content/uploads/2016/07/android-n-nougat-wallpaper-2.jpg",
+				"thumbUrl": "https://drive.google.com/uc?id=0B0f4ypHfNKm5WTh5X054ZHJocmM",
+				"name": "Nougat Wallpaper 2"
+			},
+			{
+				"author": "Unknown",
+				"url": "http://www.gadgetraid.com/wp-content/uploads/2016/07/android-n-nougat-wallpaper-3.jpg",
+				"thumbUrl": "https://drive.google.com/uc?id=0B0f4ypHfNKm5d0xqb3ktUzRQZDg",
+				"name": "Nougat Wallpaper 3"
+			},
+			{
+				"author": "Unknown",
+				"url": "http://www.gadgetraid.com/wp-content/uploads/2016/07/android-n-nougat-wallpaper-4.jpg",
+				"thumbUrl": "https://drive.google.com/uc?id=0B0f4ypHfNKm5cGd5cElXQjA4Sk0",
+				"name": "Nougat Wallpaper 4"
+			},
+			{
+				"author": "Unknown",
+				"url": "http://www.gadgetraid.com/wp-content/uploads/2016/07/android-n-nougat-wallpaper-1.jpg",
+				"thumbUrl": "https://drive.google.com/uc?id=0B0f4ypHfNKm5SWFHM3A5RE1DMms",
+				"name": "Nougat Wallpaper 5"
+			},
+			{
+				"author": "Unknown",
+				"url": "https://c.slashgear.com/wp-content/uploads/2015/08/AndroidMarshmallow_01.jpg",
+				"thumbUrl": "https://drive.google.com/uc?id=0B0f4ypHfNKm5NzgxMGI4RWV2MkU",
+				"name": "M Wallpaper 1"
+			},
+			{
+				"author": "Unknown",
+				"url": "https://c.slashgear.com/wp-content/uploads/2015/08/AndroidMarshmallow_02.jpg",
+				"thumbUrl": "https://drive.google.com/uc?id=0B0f4ypHfNKm5LXpWOTVJU3A2Rm8",
+				"name": "M Wallpaper 2"
+			},
+			{
+				"author": "Unknown",
+				"url": "https://c.slashgear.com/wp-content/uploads/2015/08/AndroidMarshmallow_03.jpg",
+				"thumbUrl": "https://drive.google.com/uc?id=0B0f4ypHfNKm5WDNHR3ZndEs3cnM",
+				"name": "M Wallpaper 3"
+			},
+			{
+				"author": "Unknown",
+				"url": "https://c.slashgear.com/wp-content/uploads/2015/08/AndroidMarshmallow_04.jpg",
+				"thumbUrl": "https://drive.google.com/uc?id=0B0f4ypHfNKm5WHVlbjA2UEZDUlk",
+				"name": "M Wallpaper 4"
+			},
+			{
+				"author": "Unknown",
+				"url": "https://c.slashgear.com/wp-content/uploads/2015/08/AndroidMarshmallow_05.jpg",
+				"thumbUrl": "https://drive.google.com/uc?id=0B0f4ypHfNKm5bU84NlNRTzNfMms",
+				"name": "M Wallpaper 5"
+			},
+			{
+				"author": "Unknown",
+				"url": "https://c.slashgear.com/wp-content/uploads/2015/08/AndroidMarshmallow_06.jpg",
+				"thumbUrl": "https://drive.google.com/uc?id=0B0f4ypHfNKm5VlVtcURlOEprY0E",
+				"name": "M Wallpaper 6"
+			},
+			{
+				"author": "Unknown",
+				"url": "https://c.slashgear.com/wp-content/uploads/2015/08/AndroidMarshmallow_07.jpg",
+				"thumbUrl": "https://drive.google.com/uc?id=0B0f4ypHfNKm5Mi1FRUMydnpKTUk",
+				"name": "M Wallpaper 7"
+			},
+			{
+				"author": "Unknown",
+				"url": "https://c.slashgear.com/wp-content/uploads/2015/08/AndroidMarshmallow_08.jpg",
+				"thumbUrl": "https://drive.google.com/uc?id=0B0f4ypHfNKm5Z01ERWZuZVJ1bjQ",
+				"name": "M Wallpaper 8"
+			},
+			{
+				"author": "Unknown",
+				"url": "https://c.slashgear.com/wp-content/uploads/2015/08/AndroidMarshmallow_09.jpg",
+				"thumbUrl": "https://drive.google.com/uc?id=0B0f4ypHfNKm5bVBSOHdKNTA1YUU",
+				"name": "M Wallpaper 9"
+			},
+			{
+				"author": "Unknown",
+				"url": "https://c.slashgear.com/wp-content/uploads/2015/08/AndroidMarshmallow_10.jpg",
+				"thumbUrl": "https://drive.google.com/uc?id=0B0f4ypHfNKm5UnF2NU5xUENOMGM",
+				"name": "M Wallpaper 10"
+			}
+		]
 }
